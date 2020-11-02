@@ -1,0 +1,1 @@
+# lanacoin_bootstrap
